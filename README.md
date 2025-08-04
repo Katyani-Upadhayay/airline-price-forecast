@@ -4,12 +4,12 @@ This project predicts future airline ticket prices for different routes using Fa
 Users can select a route and view historical price trends, future predictions, confidence intervals, and download the forecasted data.
 
 Features:
-✅ Forecast ticket prices for any route
-✅ Interactive Streamlit web app
-✅ Adjustable prediction horizon (7–90 days)
-✅ Confidence intervals for predictions
-✅ Download forecast results as CSV
-✅ Fully deployed on Streamlit Cloud
+Forecast ticket prices for any route
+Interactive Streamlit web app
+Adjustable prediction horizon (7–90 days)
+Confidence intervals for predictions
+Download forecast results as CSV
+Fully deployed on Streamlit Cloud
 
 Tech Stack:
 Python (Pandas, Matplotlib, Prophet)
